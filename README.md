@@ -14,3 +14,6 @@ Simple Python dictionary application
 **Conditional Logic:** The script uses if, elif, and else statements to handle different cases of word lookup and user responses.
 
 **List Iteration:** The script checks if the output is a list and iterates over it to print each item individually.
+
+### Requirements
+No external packages needed. Python built-in modules only
